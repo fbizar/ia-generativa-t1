@@ -6,6 +6,12 @@
 - Sitio de despliegue: [dev-market-green.vercel.app](https://dev-market-green.vercel.app/)
 - Código fuente: [DevMarket](https://github.com/fbizar/DevMarket/tree/main)
 
+### Miembros (Célula Hades - Ubuntu)
+- Felipe Bedoya (yo)
+- David Payares
+- Juan Cuartas
+- Andrés Macias
+
 ## Prompts
 Para este proyecto se usaron skills, las cuales pueden encontrarse en [DevMarket/skills](https://github.com/fbizar/DevMarket/tree/main/skills).
 ### Inicial
